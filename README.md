@@ -1,4 +1,4 @@
 # Discrete-Math-Specialization-Coursera-
-Here  are  the  slides, python  codes  for  the  quiz  and  others  and  jupyter  notebook  related
+Here  are  the  slides, python  codes  for  the  quiz  and some codes implemented using jupyter  notebook  related
  to  the  specialization  ( Introduction  to  Discrete  Mathematics  In  Computer  Science)
-https://www.coursera.org/specializations/discrete-mathematics
+<br />https://www.coursera.org/specializations/discrete-mathematics
